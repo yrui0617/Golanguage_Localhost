@@ -43,35 +43,35 @@ This website supports the following features:
 
 # 🖼️ Picture for UI
 
-  - Home Page
+  **Home Page**
   <img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/5b055ea0-b058-401f-8f39-5fb7f28293ea" />
 
 
-  - Login Page
+  **Login Page**
   <img width="1899" height="867" alt="image" src="https://github.com/user-attachments/assets/f72bf728-8d44-4800-a216-2e9b7b7a33b0" />
 
 
-  - Language Selection
+  **Language Selection**
   <img width="1915" height="871" alt="image" src="https://github.com/user-attachments/assets/307e83c6-f169-4c5e-b13a-a5a16baf483f" />
 
 
-  - Dashboard
+  **Dashboard**
   <img width="1915" height="865" alt="image" src="https://github.com/user-attachments/assets/64da5bc8-4c97-49d9-849d-3f31af04e768" />
 
 
-  - Exercise
+  **Exercise**
   <img width="1895" height="869" alt="image" src="https://github.com/user-attachments/assets/4baaf7e1-90b6-4e01-ae72-542f28dd113e" />
 
 
-  - Achievement
+  **Achievement**
   <img width="1913" height="864" alt="image" src="https://github.com/user-attachments/assets/a112d11d-edde-49d2-8645-4c35d7c4a5fa" />
 
 
-  - User Profile
+  **User Profile**
   <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/bc73cc54-7082-4cd9-8a23-e784742ad0ab" />
 
 
-  - About us
+  **About us**
   <img width="1914" height="868" alt="image" src="https://github.com/user-attachments/assets/f8a93878-09e4-4799-8d2a-ab3d4036ec9f" />
 
 
