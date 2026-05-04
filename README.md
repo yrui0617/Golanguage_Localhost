@@ -41,15 +41,3 @@ This website supports the following features:
   - spring.datasource.password=yourpassword   #
     - Change to your MySQL password
 
-## Docker image
-  **to ensure that web application can be run locally without any environment issue**
-  
-  - **1.Write the following command to pull docker image in the terminal of intellij:**
-      ````bash
-      docker pull yrui0617/finalproject:latest
-  - **2.You can run the docker container after download the docker image by write the following command in the terminal of intellij：**
-      ````bash
-      run -d -p 8080:8080 yrui0617/finalproject:latest
-  - **3.If the docker container run successfully, you can go to the url provided in the web browser, it will directly go to index.html:**
-      ````bash
-      http://localhost:8080
